@@ -1,0 +1,83 @@
+body {
+	background-image:url("war3.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+	height: 800px;
+	/*margin-down:20px;*/
+	
+}
+.sidebar {
+	position: relative;
+	float: left;
+	width: 20%;
+	height: 100px;
+}
+.sidebar button {
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.sidebar ul li{
+	display: none;
+	color: #FFF;
+}
+.content {
+	width: 90%;
+	height: 100%;
+	position: relative;
+	/*background: #000;*/
+	float: right;
+	
+}
+h1 {
+	font-size: 55px;
+	text-align: center;
+	font-weidht:70px;
+	margin-left:-10%;
+	line-height: 2em;
+}
+#up{
+	color: #FFF;
+}
+#down {
+	color: #00BCD4;
+}
+.footer {
+	height: 10%;
+	width: 100%;
+	clear: both;
+	color: #FFF;
+	text-align: center;
+	border: 20px;
+	font-size: 30px;
+	/*margin-bottom: 10%;*/
+	/*margin-top: 30% ;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
